@@ -1,5 +1,3 @@
-//NIM dabs október 1997
-#include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
@@ -146,6 +144,7 @@ void notandi( int* hruga )
 	int hrugunumer;
 	do
 	{
+		cout << "asrun13, taktu thatt i leik!" << endl;
 		cout << "Sladu inn hve margar eldspytur thu vilt taka: ";
 		cin >> eldspytur;
 		cout << endl;
