@@ -3,6 +3,7 @@
 #include <time.h>
 
 using namespace std;
+//Asrun var her
 //2014
 //q
 //p
